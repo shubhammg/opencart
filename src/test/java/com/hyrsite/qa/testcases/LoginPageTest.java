@@ -79,7 +79,7 @@ public class LoginPageTest extends TestBase {
 		System.out.println("Name: " + name + ", Age: " + age + ", Email: " + email);
 		
 		test.pass("My test First test case passed");
-		
+		System.out.println("hello");
 		
 	}
 	@Test
