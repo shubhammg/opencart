@@ -17,7 +17,7 @@ import com.hyrsite.qa.util.ExcelDataReader;
 import com.qa.ExtentTReportListener.ExtentReportListener;
 
 public class LandingPageTest extends TestBase{
-	
+	// my new
 	LoginPage loginPage;
 	LandingPage landingPage;
 	  private ExtentReports extent;
