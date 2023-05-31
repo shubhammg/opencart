@@ -18,6 +18,7 @@ import com.qa.ExtentTReportListener.ExtentReportListener;
 
 public class LandingPageTest extends TestBase{
 	// my new
+	//nywee
 	LoginPage loginPage;
 	LandingPage landingPage;
 	  private ExtentReports extent;
